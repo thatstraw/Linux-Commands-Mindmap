@@ -3,7 +3,7 @@
 • Download  it here⬇️
 
 • Available Formats:
-- .png, pdf, docx, ppt, svg, md
+.png, pdf, docx, ppt, svg, md
 
 https://github.com/0xTRAW/Linux-Commands-Mindmap/tree/main/Mindmaps/v1
 
