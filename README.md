@@ -1,5 +1,5 @@
 # Linux-Commands-Mindmap + Modern Alternatives
-
+![](prv.png)
 ## Basic File Operations
 
 ### ls
