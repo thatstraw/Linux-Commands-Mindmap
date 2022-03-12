@@ -1,5 +1,8 @@
 # Linux-Commands-Mindmap + Modern Alternatives
 
+• Mind-map Preview
+https://www.xmind.net/m/taCNUs/#
+
 • Download  it here⬇️
 
 • Available Formats:
